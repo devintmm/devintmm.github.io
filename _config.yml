@@ -1,0 +1,12 @@
+# Site settings
+title: "Devin McGeehan Muchmore"
+bye_message: 
+baseurl: 
+url: 
+
+# Header settings
+
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/

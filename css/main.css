@@ -1,0 +1,100 @@
+body {
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 0;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: unset !important;
+}
+h1 {
+  color: rgba(0,0,0,0.8);
+  font-size: 28px;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+header {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: rgba(0,0,0,1);
+}
+header p {
+    text-align: left;
+    margin: 0;
+    /* color: rgba(0,0,0,0.7); */
+    color: rgba(0
+        ,0
+    ,0
+    ,0.5);
+}
+
+footer {
+    font-weight: bold;
+    border-top: dashed 1px #aaa;
+    margin: 15px auto 15px;
+    padding-top: 10px;
+}
+
+
+a:before {
+    content: "{";
+    color: #ccc;
+}
+a:after {
+    content: "}";
+    color: #ccc;
+}
+
+.post-content a {
+    color: #FF33B9;
+}
+.post-content a:hover {
+    text-decoration-color: #FF33B9;
+}
+
+.roles {
+    list-style: none;
+    font-size: 14px;
+    text-align: left;
+    padding: 0px;
+}
+.roles a {
+    color: inherit;
+}
+
+.menu {
+    border-top: 1px dashed #aaa;
+    border-bottom: 1px dashed #aaa;
+    font-size: 14px;
+    text-align: center;
+}
+.menu ul {
+    margin: 6px 0px 6px 0px;
+    padding: 0px;
+}
+.menu ul li {
+    margin: 0px 10px 0px 10px;
+    display: inline;
+}
+.menu ul li a {
+    text-decoration: none;
+    position: relative;
+    color: inherit;
+}
+.menu ul li a:before, .menu ul li a:after {
+    content: "";
+}
+.menu ul li a:hover:before {
+  width: 0px; 
+  height: 0px;
+  content: "";
+  position: absolute;
+  margin-left: -5px;
+  left: 50%;
+  bottom: -7px;
+  display: inline-block;
+  border-top: 5px solid transparent;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid black;
+}
