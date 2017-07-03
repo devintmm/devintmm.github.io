@@ -47,6 +47,7 @@ a:after {
 
 .post-content a {
     color: #FF33B9;
+    margin: 0px -3px 0px -3px;
 }
 .post-content a:hover {
     text-decoration-color: #FF33B9;
