@@ -34,6 +34,10 @@ footer {
     padding-top: 10px;
 }
 
+.footer {
+  font-size: 8px
+  color: inherit;
+}
 
 a:before {
     content: "{";
@@ -50,11 +54,6 @@ a:after {
 }
 .post-content a:hover {
     text-decoration-color: #FF33B9;
-}
-
-.footer {
-  font-size: 8px
-  color: #FF33B9
 }
 
 .roles {
