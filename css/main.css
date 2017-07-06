@@ -34,10 +34,10 @@ footer {
     padding-top: 10px;
 }
 
-footer p {
+.footer {
   text-align: left;
   font-size: 8px
-  color: #ccc;
+  color: inherit;
 }
 
 a:before {
