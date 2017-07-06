@@ -29,12 +29,14 @@ header p {
 }
 
 footer {
-    font-family: monospace;
-    font-size: 8px
-    color: #aaa;
     border-top: dashed 1px #aaa;
     margin: 15px auto 15px;
     padding-top: 10px;
+
+footer p {
+    font-family: monospace;
+    font-size: 8px
+    color: #ccc;
 }
 
 
