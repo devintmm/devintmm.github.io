@@ -6,7 +6,6 @@ url:
 
 # Header settings
 
-
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
