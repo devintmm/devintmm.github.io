@@ -8,5 +8,3 @@ I am a historian of the twentieth-century United States, a sexuality studies sch
 I am working on two large-scale projects that take up these issues from different angles. The first is my [dissertation](/research#dissertation) (December 2017 defense), "Like A Normal Business: Morality, Economy, and the Making of an Adult Entertainment Industry in the 1970s United States." The second is a history of [sex in later life](/research#elder_intimacies) in the twentieth-century U.S. 
 
 In addition to my individual research, I am a contributor to [two public history projects](/public_history) that seek to leverage digital platforms to stimulate new conversations about the past. I am an editor at [Notches](http://notchesblog.com), a collaborative and international history of sexuality blog, and a producer for [Sexing History](https://www.facebook.com/sexinghistory), an upcoming podcast that examines how the history of sexuality shapes our present. 
-
-<meta name="google-site-verification" content="kP2qxptop0JNChd3baPeLfPbnZ3681oDF2VWwU2Nfms" />
