@@ -1,6 +1,6 @@
 # Site settings
 title: "Devin McGeehan Muchmore"
-bye_message: [Source](https://github.com/devintmm/devintmm.github.io)
+bye_message:
 baseurl: 
 url: 
 
