@@ -34,12 +34,6 @@ footer {
     padding-top: 10px;
 }
 
-.footer {
-  text-align: left;
-  font-size: 8px
-  color: inherit;
-}
-
 a:before {
     content: "{";
     color: #ccc;
