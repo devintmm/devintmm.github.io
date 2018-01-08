@@ -3,9 +3,11 @@ layout: content
 permalink: /teaching
 ---
 As Instructor of Record at Yale:
+
 Love, Sex, and Commerce in Modern America, Spring 2017
 
 As Teaching Assistant at Yale:
+
 U.S. Lesbian and Gay History, Professor George Chauncey, Fall 2016
 
 Women in Modern America, Professor Joanne Meyerowitz, Spring 2014
