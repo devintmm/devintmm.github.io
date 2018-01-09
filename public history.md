@@ -9,6 +9,6 @@ Notches is an international and collaborative blog that aims to get people insid
 
 <br>
 
-Producer, [Sexing History](www.sexinghistory.com)
+Producer, [Sexing History](http://www.sexinghistory.com)
 
 Sexing History is a podcast that shows how the history of sexuality shapes our present.  
