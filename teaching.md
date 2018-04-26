@@ -4,19 +4,18 @@ permalink: /teaching
 ---
 As Instructor of Record at Yale:
 
-Love, Sex, and Commerce in Modern America, Spring 2017
-
+Love, Sex, and Commerce in Modern America
 
 <br>
 
 As Teaching Assistant at Yale:
 
-U.S. Lesbian and Gay History, Professor George Chauncey, Fall 2016
+U.S. Lesbian and Gay History, Professor George Chauncey
 
-Women in Modern America, Professor Joanne Meyerowitz, Spring 2014
+Women in Modern America, Professor Joanne Meyerowitz
 
-Religion in Modern America, 1865-2010, Professor Kathryn Lofton, Fall 2013
+Religion in Modern America, 1865-2010, Professor Kathryn Lofton
 
-Asian American History, 1800 to the Present, Professor Mary Lui, Spring 2013
+Asian American History, 1800 to the Present, Professor Mary Lui
 
-U.S. Lesbian and Gay History, Professor George Chauncey, Fall 2012
+U.S. Lesbian and Gay History, Professor George Chauncey
