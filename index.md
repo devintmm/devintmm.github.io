@@ -1,7 +1,7 @@
 ---
 layout: content
 ---
-I am a historian of the twentieth-century United States, a comparative sexuality studies scholar, and a PhD candidate in American studies at Yale, where I have [taught](/teaching) a wide range of courses on U.S. history and culture. 
+I am a historian of the twentieth-century United States, a comparative sexuality studies scholar, and a Lecturer on History and Literature at Harvard. 
 
 [My research](/research) investigates the changing ways that Americans have grappled with the commingling of intimacies—emotional, familial, and sexual—and formations of labor, commerce, and care. As a historian trained in an American Studies program, I am also committed to building connections across disciplines. I am particularly interested in exploring the possibilites opened up by bringing together cultural historical methods and social research, especially in feminist political economy, economic sociology, and critical gerontology.
 
