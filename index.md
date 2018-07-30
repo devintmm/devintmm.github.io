@@ -1,7 +1,7 @@
 ---
 layout: content
 ---
-I am a historian of the twentieth-century United States; an interdisciplinary scholar of gender, sexuality, aging, and economic life; and, from August 1, a Lecturer on History and Literature at Harvard.
+I am a historian of the twentieth-century United States; an interdisciplinary scholar of gender, sexuality, aging, and economic life; and a Lecturer on History and Literature at Harvard.
 
 [My research](/research) explores the historical relationships between intimacy and political economy, probing the changing ways that Americans have grappled with the commingling of their emotional, familial, and sexual lives with formations of labor, commerce, and care. As a historian trained in an American Studies program, I am also committed to building connections across disciplines. I am particularly interested in exploring the possibilites opened up by bringing together cultural historical methods and social research, especially in feminist political economy, economic sociology, and critical gerontology.
 
