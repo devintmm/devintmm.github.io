@@ -7,6 +7,8 @@ As Lecturer at Harvard:
 Junior Tutorial (seminar w/ student designed syllabus)
 Senior Tutorials (senior thesis advising)
 
+<br>
+
 As Instructor of Record at Yale:
 
 Love, Sex, and Commerce in Modern America
