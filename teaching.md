@@ -5,6 +5,7 @@ permalink: /teaching
 As Lecturer at Harvard:
 
 Junior Tutorial (seminar w/ student designed syllabus)
+
 Senior Tutorials (senior thesis advising)
 
 <br>
