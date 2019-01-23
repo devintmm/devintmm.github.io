@@ -1,7 +1,7 @@
 ---
 layout: content
 ---
-I am an interdisciplinary historian of the twentieth-century United States, with broad interests in erotic and intimate life, knowledge and governance, the life course, the cultural politics of market society, and public history. I hold a Ph.D. in American Studies from Yale (December 2018), and am currently a Lecturer on History and Literature at Harvard.
+I am an interdisciplinary historian of the United States, with broad interests in erotic and intimate life across the life course, knowledge and governance, and the cultural politics of market society. I hold a Ph.D. in American Studies from Yale (December 2018), and am currently a Lecturer on History and Literature at Harvard.
 
 I am currently at work on my [first book](/research), *From Smut Peddlers to Legitimate Businesses: Illicit Commerce and the Sexual Politics of Business in Modern America*. It shows how, between the 1950s and 1980s, several generations of sex business owners drew upon the repertoires of postwar business culture and 1960s and 1970s social movements to build the modern adult entertainment industry and, in the process, expand the moral boundaries of the consumer marketplace. 
 
