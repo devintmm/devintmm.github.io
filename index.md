@@ -1,7 +1,7 @@
 ---
 layout: content
 ---
-I am a [teacher](/teaching) and scholar of United States history and feminist and critical sexuality studies, with broad interests in erotic and intimate life across the life course, "lay" and "expert" social theorizing, geographies of governance and regulation, and economic culture, particularly in the twentieth century. I hold a Ph.D. in American Studies and graduate ceritificate in Women's, Gender, and Sexuality Studies from Yale (2018), and am currently a Lecturer on History and Literature at Harvard.
+I am a [teacher](/teaching) and scholar of United States history and feminist and critical sexuality studies, with broad interests in erotic and intimate life across the life course, "lay" and "expert" social theorizing, geographies of governance and regulation, and economic culture, particularly in the twentieth century. I hold a Ph.D. in American Studies and graduate certificate in Women's, Gender, and Sexuality Studies from Yale (2018), and am currently a Lecturer on History and Literature at Harvard.
 
 I am at work on my [first book](/research), *From Smut Peddlers to Legitimate Businesses: Illicit Commerce and the Sexual Politics of Business in Modern America*. The book analyzes how, between the 1950s and 1980s, several generations of small- and medium-enterprise owners in the sex text, image, and device industres drew upon the repertoires of postwar business culture and 1960s and 1970s social movements to build the modern adult entertainment industry and, in the process, expand the moral boundaries of the consumer marketplace. 
 
