@@ -4,7 +4,9 @@ permalink: /teaching
 ---
 As Lecturer at Harvard:
 
-Junior Tutorial (seminar w/ student designed syllabus)
+Queer Oral Histories
+
+Junior Tutorials (seminars w/ student designed syllabuses)
 
 Senior Tutorials (senior thesis advising)
 
