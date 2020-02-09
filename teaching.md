@@ -4,6 +4,8 @@ permalink: /teaching
 ---
 As Lecturer at Harvard:
 
+Sophomore Tutorial: Gender and Sexuality (interdisciplinary methods course, co-taught with Dr. Victoria Wiet)
+
 Queer Oral Histories
 
 Junior Tutorials (seminars w/ student designed syllabuses)
