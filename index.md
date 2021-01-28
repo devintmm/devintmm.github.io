@@ -1,7 +1,7 @@
 ---
 layout: content
 ---
-I am an interdisciplinary historian of the twentieth- and twenty-first-century United States. In my teaching, research, and public humanities projects, I aim to facilitate conversations about connections among intimate life—including sex, identity, family, and health—and the politics of knowledge and expertise, regulatory institutions, and economic culture. I hold a Ph.D. in American Studies and graduate certificate in Women's, Gender, and Sexuality Studies from Yale (2018), and am currently a Lecturer on History and Literature at Harvard.
+I am an interdisciplinary historian of the twentieth- and twenty-first-century United States and a feminist and queer studies scholar. In my teaching, research, and public humanities projects, I aim to facilitate conversations about the changing connections among intimate life—including sex, identity, family, and health—and the politics of knowledge and expertise, regulatory institutions, and economic culture. I hold a Ph.D. in American Studies and graduate certificate in Women's, Gender, and Sexuality Studies from Yale (2018), and am currently a Lecturer on History and Literature at Harvard.
 
 I am at work on my [first book](/research), *For Adults Only: Pornography and the Business of Sexual Revolution*. The book analyzes how, between the 1950s and 1980s, several generations of small- and medium-enterprise owners in the sex media and device trades drew upon the repertoires of postwar business culture and twentieth-century freedom movements to build the modern adult entertainment industry and, in the process, redraw the moral boundaries of the consumer marketplace. 
 
